@@ -3,7 +3,7 @@
 Hello vortexians!
 This is a crate used for accessing the Vortex API. For example, you could get the friends list or an user's bio!
 
-> IMPORTANT: Webscraping is not allowed, according to Vortex's TOS.
+> IMPORTANT: webscraping is not allowed, according to Vortex's TOS.
 > 
 > Make sure you always have permission before accessing users' information!
 
