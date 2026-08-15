@@ -2,6 +2,10 @@
 name = "vortex-api"
 version = "0.1.0"
 edition = "2024"
+license-file = "LICENSE"
+description = "A Rust crate for fetching API in Vortex"
+repository = "https://github.com/Prouddani/vortex-api/"
+readme = "README.md"
 
 [dependencies]
 reqwest = { version = "0.13.4", features = ["json"] }
